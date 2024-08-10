@@ -1,0 +1,9 @@
+cv2 is a module from the OpenCV library used in Python for computer vision tasks. It provides various functions for image and video processing, including reading images, detecting objects, and applying filters. The cv2 module is named to reflect its association with OpenCV, as the older versions of OpenCV used the name cv. To load an image, you can use the function cv2.imread(), providing the path to your image file.
+
+pip install opencv-python
+
+
+# PIL stands for Python Imaging Library, and it's the original library that enabled Python to deal with images.
+pip install pillow
+
+pip install imutils
